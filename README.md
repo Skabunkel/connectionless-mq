@@ -5,10 +5,10 @@ im still working on this its just that im doing other stuff and work is eating a
 
 So i have been a bit sidetracked, i have been investigating message queues and streaming systems i like.
 Currently i like NATS-jetstream a lot and how that feels to work with.
-* [https://github.com/nats-io/nats-server](NATS-server)
+* [NATS-server](https://github.com/nats-io/nats-server)
 
 I also found BlazingMQ earlier this week, so im looking at that too see the nice features there.
-* [https://github.com/bloomberg/blazingmq](BlazingMQ)
+* [BlazingMQ](https://github.com/bloomberg/blazingmq)
 
 
 Current thought is to make this in _rust_ i think, becuse i feel like its has more of a future here. 🤔
